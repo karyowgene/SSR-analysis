@@ -6,7 +6,7 @@ if (!requireNamespace("vegan", quietly = TRUE)) {
   install.packages("vegan")
 }
 
-# Set the working directory to where your Excel file is located
+# Set the working directory to where your input file is located
 setwd("path/to/your/directory")
 
 # Load required libraries
