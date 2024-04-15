@@ -3,7 +3,7 @@ if (!requireNamespace("diveRsity", quietly = TRUE)) {
   install.packages("diveRsity")
 }
 
-# Set the working directory to where your Excel file is located
+# Set the working directory to where your .gen file is located
 setwd("path/to/your/directory")
 
 # Load required libraries
